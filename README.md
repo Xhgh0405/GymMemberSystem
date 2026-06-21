@@ -9,12 +9,24 @@
 ## 一、專案特色
 
 - 主畫面 Dashboard：顯示會員總數、有效會籍、即將到期會員與身體紀錄數量。
+  <img width="1409" height="793" alt="image" src="https://github.com/user-attachments/assets/b877a391-da56-414b-980b-20a8f86f24d2" />
+
 - 會員資料管理：新增、修改、刪除、搜尋會員。
 - 會員照片：可選擇 JPG / PNG / BMP 作為會員個人照片，儲存時會複製到 `Data/Photos`。
+  <img width="1416" height="795" alt="image" src="https://github.com/user-attachments/assets/56d9d491-b345-44c6-8369-69b58bc5c311" />
+
 - 身體分析：記錄體重、體脂率、肌肉量、內臟脂肪、腰圍、臀圍。
+  <img width="1414" height="798" alt="image" src="https://github.com/user-attachments/assets/5d489bdb-35fa-4ce9-bc8d-8d68c4c9fb8c" />
+
 - 成長軌跡：使用折線圖顯示體重、體脂率、肌肉量變化。
+  <img width="1422" height="790" alt="image" src="https://github.com/user-attachments/assets/3385b020-41f9-43f5-bdf5-03a7e0690d20" />
+
 - 飲食規劃：依照會員資料與最新身體紀錄計算 BMR、TDEE、建議熱量與三大營養素。
+  <img width="1419" height="795" alt="image" src="https://github.com/user-attachments/assets/db7ff685-bee4-4249-b9e8-671dff883879" />
+
 - 付款與報表：新增會籍付款、自動更新到期日、匯出 TXT 報表。
+  <img width="1409" height="805" alt="image" src="https://github.com/user-attachments/assets/9fa642c1-20d7-48b3-bd1c-10e5f22bd8aa" />
+
 - 讀寫檔功能：會員、身體紀錄、付款紀錄皆使用 CSV 儲存。
 - UI 設計：黑黃配色、左側導覽列、分類卡片，操作流程清楚。
 
